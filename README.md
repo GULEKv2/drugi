@@ -30,5 +30,12 @@ tekst ten jest *niezły*
                 print("i = ", i)
                 i += 1
                 
-' print("jestem tutaj")'                
+ pamietaj 'print("jestem tutaj")'
+ 
+ 1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](drugi/zd14a.jpg)
+
+3. Close the file.
 
