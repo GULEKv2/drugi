@@ -25,9 +25,10 @@ tekst ten jest *niezły*
 1. Open the file.
 2. Find the following code block on line 28:
 
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
+        i = 0
+        while i < 5:
+                print("i = ", i)
+                i += 1
+                
+' print("jestem tutaj")'                
 
-3. Update the title to match the name of your website.
