@@ -35,7 +35,7 @@ tekst ten jest *niezły*
  1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](drugi/zd14a.jpg)
+    ![taka zabawa](/zd14a.jpg)
 
 3. Close the file.
 
